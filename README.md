@@ -186,6 +186,6 @@ Designed and developed by a 7th grade aerospace engineering student.
 **The Horizon Is Waiting.**
 
 ---
-*Gyansh Saini
-*gyansh.saini@gmail.com
+Gyansh Saini
+gyansh.saini@gmail.com
 *Version 7.0 — Last Updated April 22, 2026*
